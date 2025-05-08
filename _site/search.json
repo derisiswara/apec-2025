@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "APEC-2025",
+    "section": "",
+    "text": "This research questionnaire is compiled based on the criteria of the ISO Food SafetyManagement System, HCCP and GMP with a focus on a simple evaluation of theimplementation or application of Food Safety requirements at the level of MSME and streetfood business actors in the APEC Region.The criteria in the ISO Food Safety Management System, HCCP and GMP included inthis questionnaire are only relevant and have the potential to guarantee food safety based on the literature study that has been conducted."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "APEC-2025",
+    "section": "",
+    "text": "This research questionnaire is compiled based on the criteria of the ISO Food SafetyManagement System, HCCP and GMP with a focus on a simple evaluation of theimplementation or application of Food Safety requirements at the level of MSME and streetfood business actors in the APEC Region.The criteria in the ISO Food Safety Management System, HCCP and GMP included inthis questionnaire are only relevant and have the potential to guarantee food safety based on the literature study that has been conducted."
+  },
+  {
+    "objectID": "actor.html",
+    "href": "actor.html",
+    "title": "Actor",
+    "section": "",
+    "text": "library(readxl)\ndataactor &lt;- read_excel(\"data/ENG new - PELAKU USAHA MAKANAN rekap.xlsx\")"
+  },
+  {
+    "objectID": "actor.html#data",
+    "href": "actor.html#data",
+    "title": "Actor",
+    "section": "",
+    "text": "library(readxl)\ndataactor &lt;- read_excel(\"data/ENG new - PELAKU USAHA MAKANAN rekap.xlsx\")"
+  },
+  {
+    "objectID": "actor.html#sociodemographic",
+    "href": "actor.html#sociodemographic",
+    "title": "Actor",
+    "section": "SocioDemographic",
+    "text": "SocioDemographic\n\n# Gender\ntable(dataactor$Gender)\n\n# Create a standardized education category\nlibrary(tidyverse)\nlibrary(ggplot2)\n\ndataactor$Edu &lt;- factor(\n  case_when(\n    dataactor$`Level of Education` %in% c(\"Primary School\", \"Junior HS\", \"Senior HS\") ~ \"Basic Education\",\n    dataactor$`Level of Education` %in% c(\"Vocational School\", \"3y Diploma\") ~ \"Vocational\",\n    dataactor$`Level of Education` %in% c(\"Bachelor\", \"Bachelor Adm Negara\", \"Master Degre\") ~ \"College Degree\",\n    TRUE ~ \"Other\"\n  ),\n  levels = c(\"Basic Education\", \"Vocational\", \"College Degree\"),\n  ordered = TRUE\n)\ntable(dataactor$Edu)\n\n# Province\ndataactor$Province &lt;- recode(dataactor$Province,\n                              \"Dki Jakarta\" = \"Jakarta\",\n                              \"DKI Jakarta\" = \"Jakarta\",\n                              \"DIY\" = \"Central Java\",\n                              \"Jawa Tengah\" = \"Central Java\",\n                              \"Jawa Barat\" = \"West Java\")\ntable(dataactor$Province)\n\n\nFemale   Male \n    26     24 \n\n\n\nBasic Education      Vocational  College Degree \n             28              13               9 \n\n\n\nCentral Java      Jakarta    West Java \n          20           10           20"
+  }
+]
