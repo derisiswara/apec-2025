@@ -1,6 +1,8 @@
 project:
   type: website
 
+freeze: auto
+
 website:
   title: "APEC-2025"
   navbar:
@@ -15,6 +17,3 @@ format:
       - zephyr
     css: styles.css
     toc: true
-
-
-
