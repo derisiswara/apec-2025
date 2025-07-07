@@ -1,0 +1,14 @@
+---
+title: WORKSHOP APEC 2025
+description: A simple evaluation of the implementation and application of food safetyn requirements for MSMEs and street food businesses in the APEC region.
+format: html
+toc: true
+---
+
+> 22-23 July 2025 | Pullman Legian Beach, Bali, Indonesia
+
+## Questionenaire
+
+[Business Actors](questioner/QUESTIONNAIRE OF FOOD SAFETY ACTORS_ SCSC_102_2024T.pdf)
+
+[Regulators](questioner/QUESTIONNAIRE OF FOOD SAFETY ACTORS_ SCSC_102_2024T.pdf)
