@@ -1,1 +1,6 @@
+title: APEC 2025
+description: Food safety evaluation for MSMEs in APEC region
 theme: jekyll-theme-leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
