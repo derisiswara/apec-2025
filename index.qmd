@@ -1,7 +1,6 @@
 ---
 title: WORKSHOP APEC 2025
 description: A simple evaluation of the implementation and application of food safetyn requirements for MSMEs and street food businesses in the APEC region.
-format: html
 toc: true
 ---
 
@@ -12,3 +11,13 @@ toc: true
 [Business Actors](questioner/QUESTIONNAIRE OF FOOD SAFETY ACTORS_ SCSC_102_2024T.pdf)
 
 [Regulators](questioner/QUESTIONNAIRE OF FOOD SAFETY ACTORS_ SCSC_102_2024T.pdf)
+
+## Slides
+
+{{< fa solid chalkboard-user >}} [Slides](questioner/QUESTIONNAIRE OF FOOD SAFETY ACTORS_ SCSC_102_2024T.pdf)
+
+## Jupyter Notebooks
+
+![Visualization](https://github.com/derisiswara/apec-2025/visualization.ipynb)
+
+
