@@ -19,7 +19,7 @@ toc: true
 
 ## Presentation Manuscript
 
-{{< fa solid text-width >}} [Manuscript](derisiswara.art/blog/apecmanus/index.html)
+{{< fa solid text-width >}} [Manuscript](https://derisiswara.art/blog/apecmanus/index.html)
 
 ## Notebooks
 
