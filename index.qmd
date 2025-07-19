@@ -18,6 +18,6 @@ toc: true
 
 ## Jupyter Notebooks
 
-![Visualization](https://github.com/derisiswara/apec-2025/visualization.ipynb)
+[Visualization](https://github.com/derisiswara/apec-2025/visualization.ipynb)
 
 
