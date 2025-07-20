@@ -27,5 +27,70 @@ toc: true
 
 {{< fa solid file-code >}} [EDA](https://github.com/derisiswara/apec-2025/blob/main/actor.ipynb)
 
-## Gallery
+## Food Safety Practices for Street Food Businesses in Other Countries/Regions
+
+::: {.callout-caution collapse="true"}
+## Marutha, K. J., & Chelule, P. K. (2020). Safe food handling knowledge and practices of street food vendors in Polokwane Central Business District. International Journal of Environmental Research and Public Health, 17(21), 8035. https://doi.org/10.3390/ijerph17218035
+
+This quantitative descriptive study found that although street food vendors **had high knowledge**, their food handling practices were mostly **inadequate**, often conducted **in open air and tents**, and were negatively affected by **limited resources like water and a healthy environment**.
+:::
+
+::: {.callout-caution collapse="true"}
+## Addo-Tham, R., Appiah-Brempong, E., Vampere, H., Acquah-Gyan, E., & Akwasi, A. G. (2020). Knowledge on food safety and food-handling practices of street food vendors in Ejisu-Juaben Municipality of Ghana. Journal of Environmental and Public Health, 2020, 4579573. https://doi.org/10.1155/2020/4579573
+
+This cross-sectional mixed-method study of 340 street food vendors in Ghana found that while **nearly all had good knowledge** of food safety, **effective training and licensing**—rather than e**ducation level**—were the strongest predictors of safe food-handling practices.
+:::
+
+::: {.callout-caution collapse="true"}
+## Chukuezi, C. O. (2010). Food safety and hygienic practices of street food vendors in Owerri, Nigeria. Studies in Sociology of Science, 1(1), 50–57. https://www.cscanada.net/index.php/sss/article/view/1354
+
+This study found that many street food vendors in Owerri, Nigeria operated u**nder poor hygienic conditions**—such as handling food with **bare hands**, **not wearing aprons** or **hair coverings**, and u**sing recycled dirty water**—which highlights the urgent need for targeted health education to protect public food safety.
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Alimi, B. A. (2016). Risk factors in street food practices in developing countries: A review. Food Control, 60, 447–455. https://doi.org/10.1016/j.foodcont.2015.11.044
+
+This review highlights that while street food provides economic benefits in developing countries, its **informal and unregulate**d nature creates significant health risks, which can be mitigated through integrated safety strategies like **GAP, HACCP, and hygiene practices across the entire food chain**, supported by strong public health policy enforcement.
+:::
+
+::: {.callout-caution collapse="true"}
+## Alamo-Tonelada, C., Silaran, F. Y., & Bildan, M. C. A. (2018). Sanitary conditions of food vending sites and food handling practices of street food vendors: Implication for food hygiene and safety. International Journal of Education and Research, 6(3), 31–44. http://www.ijern.com/March-2018.php
+
+This study at Tarlac State University found that while most street food vendors **lacked food safety training and awareness of regulations**, food was generally vended under **relatively good sanitary **conditions—with basic hygiene tools available—though **pest** presence remained an unresolved concern.
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Monney, I., Agyei, D., Ewoenam, B. S., Campaore, P., & Nyaw, S. (2014). Food hygiene and safety practices among street food vendors: An assessment of compliance, institutional and legislative framework in Ghana. Food and Public Health, 4(6), 306–315. https://doi.org/10.5923/j.fph.20140406.08
+
+This cross-sectional study in Ghana found **moderate compliance** with food hygiene and safety practices among street food vendors, with notable **regional disparities**, strong adherence to medical screening, but poor use of protective clothing—further hindered by weak **institutional capacity**, **inconsistent regulations**, and **overlapping responsibilities**, highlighting the need for systemic reforms.
+:::
+
+::: {.callout-caution collapse="true"}
+## ilamala Rosales, A., Linnemann, A. R., & Luning, P. A. (2023) Food safety knowledge, self-reported hygiene practices, and street food vendors’ perceptions of current hygiene facilities and services – An Ecuadorean case. Food Control. https://doi.org/10.1016/j.foodcont.2021.108270
+
+This study in Ambato, Ecuador found that while most street food vendors were **knowledgeable** about hygiene practices and reported consistent application, they perceived **inadequate waste disposal and pest control** services as key challenges to maintaining food safety, suggesting a need for improved **infrastructure and targeted local government support.**
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Cortese, R. D. M., Veiros, M. B., Feldman, C., & Cavalli, S. B. (2016). Food safety and hygiene practices of vendors during the chain of street food production in Florianopolis, Brazil: A cross-sectional study. Food Control, 62, 178–186. https://doi.org/10.1016/j.foodcont.2015.10.027
+
+This cross-sectional study in Florianopolis, Brazil found widespread noncompliance with basic food safety standards among street food vendors—such as **lack of handwashing**, **poor cold storage**, and **absence of water access**—highlighting the urgent need for **vendor training and the development** of targeted legislation to safeguard public health.
+:::
+
+::: {.callout-caution collapse="true"}
+## Dun-Dery, E. J., & Addo, H. O. (2016). Food hygiene awareness, processing and practice among street food vendors in Ghana. Food and Public Health, 6(3), 65–74. https://doi.org/10.5923/j.fph.20160603.02
+
+This cross-sectional study in Ghana revealed **high awareness and generally good hygiene practices** among street food vendors, but identified **food storage methods** and **hand usage** during serving as key **risk factors—underscoring** the need for continuous **education and stricter policy enforcement to safeguard food safety**.
+
+:::
+
+::: {.callout-caution collapse="true"}
+## Werkneh, A. A., Tewelde, M. A., Gebrehiwet, T. A., Islam, M. A., & Belew, M. T. (2023). Food safety knowledge, attitude and practices of street food vendors and associated factors in Mekelle city, Northern Ethiopia. Heliyon, 9(3), e15126. https://doi.org/10.1016/j.heliyon.2023.e15126
+
+This cross-sectional study in Mekelle, Ethiopia found that while most street food vendors had **good knowledge**, **positive attitude**s, and **fairly safe practices** regarding food safety, these practices were significantly influenced by factors such as education level, income, age, experience, and food safety training—highlighting the need for continuous, targeted **training interventions**.
+
+:::
 
