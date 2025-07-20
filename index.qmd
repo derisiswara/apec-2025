@@ -94,3 +94,42 @@ This cross-sectional study in Mekelle, Ethiopia found that while most street foo
 
 :::
 
+## PDCA FOR ISO 22000:2018
+
+![](img/pdca.jpg)
+
+![PDCA FOR ISO 22000:2018](img/pdca2.png)
+
+| **PDCA Phase**   | Relevant ISO 22000 Clause(s)                                 | Core Theme                                                                  | Why It Belongs There                                                            |
+| ---------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Plan**         | 4 — Context<br>5 — Leadership<br>6 — Planning<br>7 — Support | Establish strategic direction, objectives, resources                        | You can't run an experiment until you know the playing field, goals, and tools. |
+| **Do**           | 8 — Operation                                                | Execute food-safety controls (PRPs, HACCP, traceability, withdrawal/recall) | This is where the planned controls actually touch the food.                     |
+| **Check**        | 9 — Performance Evaluation                                   | Monitor, measure, audit, review                                             | Confirms whether "Do" achieved the "Plan."                                      |
+| **Act / Adjust** | 10 — Improvement                                             | Corrective actions, continual improvement, FSMS updates                     | Locks in successful changes or launches the next PDCA loop.                     |
+
+### Clause-by-Clause Deep Dive
+
+| ISO 22000 Clause                    | What It Demands                                                                             | Typical Outputs                                                          | PDCA Value                                                           | Common Pitfalls                                                         |
+| ----------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **4 — Context of the Organization** | Identify internal/external issues, interested parties, and define FSMS scope.               | Stakeholder map, scope statement, high-level risk register.              | Gives the *why* and *where* for the **Plan** phase.                  | Scope too narrow (excludes contract packers, warehousing, etc.).        |
+| **5 — Leadership**                  | Top management sets policy, roles, culture of food safety.                                  | Signed food-safety policy, organization chart with authorities.          | Secures commitment and resources to execute the **Plan**.            | "Set-and-forget" policy with no visible leadership behaviour.           |
+| **6 — Planning**                    | Risk & opportunity assessment, measurable objectives, planning of changes.                  | Detailed risk matrix, SMART food-safety objectives, change-control plan. | Converts high-level intent into concrete targets for the **Plan**.   | Objectives not linked to business KPIs; risk assessment generic.        |
+| **7 — Support**                     | Provide resources, competence, awareness, communication, documented information.            | Training matrix, communication plan, document-control register.          | Ensures the **Plan** has fuel (people, budget, info).                | Training records exist, but competence never verified on the floor.     |
+| **8 — Operation**                   | Implement PRPs, HACCP/OPRPs, traceability, emergency withdrawal, validation & verification. | CCP/OPRP monitoring logs, traceability records, recall procedure.        | Core "doing"—the **Do** phase in action.                             | Controls designed well but not followed; poor record integrity.         |
+| **9 — Performance Evaluation**      | Monitor & measure processes, analyse data, internal audit, management review.               | KPI trend charts, audit reports, management-review minutes.              | Supplies evidence for the **Check** phase.                           | Data collected but never analysed; management review becomes formality. |
+| **10 — Improvement**                | Handle non-conformities, corrective actions, continual improvement projects.                | NC/CA forms, updated SOPs, improvement project charters.                 | Drives **Act**—either standardise success or launch next PDCA cycle. | Root-cause analysis superficial; fixes treat symptoms, not causes.      |
+
+### Practical Example – Allergen Control in a Snack Factory
+
+| PDCA           | Example Activities & Records                                                                                                                                                                                                                                                                               |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Plan (4–7)** | • Context: Rising allergen recalls in market.<br>• Leadership: CEO issues "zero allergen cross-contact" policy.<br>• Planning: Goal = <1 ppm peanut residue on non-peanut lines within 90 days; risk log updated.<br>• Support: Budget for dedicated cleaning tools; operators trained in ATP swab method. |
+| **Do (8)**     | Run three production trials with revised cleaning SOP; collect swab data each run.                                                                                                                                                                                                                         |
+| **Check (9)**  | Analyse swab results: 0 ppm on 94 % of samples (goal met); audit verifies SOP adherence; management review agrees effectiveness.                                                                                                                                                                           |
+| **Act (10)**   | Standardise new cleaning SOP; issue visual work-instructions; launch next PDCA to cut cleaning time 10 %.                                                                                                                                                                                                  |
+
+### How to Use This Mapping
+
+1. **Gap-scan:** List your current documents/activities under each clause; highlight empty boxes.
+2. **Align audits:** Rotate internal-audit focus—Clause 4 this quarter, Clause 5 next, etc.—to keep improvement continuous.
+3. **Twin PDCA mindset:** Remember ISO 22000 embeds *two* nested PDCA loops—one for the overall FSMS (Clauses 4-7, 9-10) and one inside Clause 8 for hazard control. Make sure they talk to each other.
