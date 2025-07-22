@@ -4,38 +4,53 @@ title: "Potential Q&A"
 
 ## What if someone asks which countries have food stalls?
 
-Ask pak Dulbert
+Ask pak Dulbert - De
 
 ## How about street food franchises?
 
-## Is it right all sample are women?
+## There are some questions about food waste?
 
-## There is come question bout food waste? 
+## Criteria for MSMEs samples
 
+## How Can AI Be Applied to Food Safety Monitoring and Assessment?
 
+AI fundamentally learns from various data types including tabular data, vision, sound, text, and language. When there are repetitive tasks in the food safety process, AI can be trained to learn patterns and automate these processes, improving efficiency and consistency in monitoring and assessment.
 
-## The Philosophy of Data Science in Understanding Food Systems
+## Potential Q&A related to my expertise (Stats and Data Science)
 
-### Epistemological Foundations:
-- **Knowledge discovery**: How do we know what we know about food safety and consumption patterns?
-- **Evidence-based reasoning**: Moving beyond anecdotal observations to systematic data collection and analysis
-- **Uncertainty quantification**: Acknowledging and measuring the limits of our knowledge in complex food systems
-- **Interdisciplinary synthesis**: Integrating insights from economics, nutrition, sociology, and environmental science
+Japan Quality Assurance (JQA) is a certification body that provides various services including certification, inspection, and training. They are involved in ensuring quality standards across different sectors, including food safety.
 
-### Data as a Lens for Understanding:
-- **Pattern recognition**: Uncovering hidden relationships in human food behaviors and market dynamics
-- **Predictive understanding**: Using historical patterns to anticipate future trends and challenges
-- **Causal reasoning**: Distinguishing correlation from causation in food system outcomes
-- **Complexity navigation**: Making sense of interconnected variables in global food networks
+Yoko Tembo - Auditor and Manager at JQA
+Also member of national mirror committee for Japan Industrial Standards Committee for food safety management system
 
-### Methodological Philosophy:
-- **Iterative learning**: Continuously updating our understanding as new data becomes available
-- **Holistic perspective**: Considering food systems as complex adaptive systems rather than isolated components
-- **Ethical considerations**: Responsible use of data while respecting privacy and cultural contexts
-- **Democratic knowledge**: Making data-driven insights accessible to all stakeholders in food systems
+TC 34: Food
+SC17: Management System for Food Safety do training for MSMEs
 
+Members: Many stakeholders 
 
+Where in Japan has AI or artificial technology been implemented in food safety standards?
 
+In which areas of Japan has AI or artificial technology been implemented to support food safety standards?
 
+Online information could be integrated with a chatbot that has been trained.
 
+## Template for asking questions
 
+* Not countries but APEC economies
+* APEC region or economies?
+
+Consumer trust and wider market access.
+
+Any repetitive problems for that business? 
+
+Great products, and great social impact. This kind of business that we need for achieving SDGs.
+
+* Q
+
+This is a great business model, making rendang more global, hopefully it can be bigger until IPO and making more impact to **absorb the workforce**.
+
+I think this model could **longer** compete because of continuous innovation and improvement. Very good job!
+
+I wouldnt ask bout food safety and standaritation since im not an expert in that field.
+
+I've one unique question, is there any problem that happened repeatedly in this business? If yes, how do you solve it?
