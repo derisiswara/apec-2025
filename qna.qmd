@@ -1,0 +1,41 @@
+---
+title: "Potential Q&A"
+---
+
+## What if someone asks which countries have food stalls?
+
+Ask pak Dulbert
+
+## How about street food franchises?
+
+## Is it right all sample are women?
+
+## There is come question bout food waste? 
+
+
+
+## The Philosophy of Data Science in Understanding Food Systems
+
+### Epistemological Foundations:
+- **Knowledge discovery**: How do we know what we know about food safety and consumption patterns?
+- **Evidence-based reasoning**: Moving beyond anecdotal observations to systematic data collection and analysis
+- **Uncertainty quantification**: Acknowledging and measuring the limits of our knowledge in complex food systems
+- **Interdisciplinary synthesis**: Integrating insights from economics, nutrition, sociology, and environmental science
+
+### Data as a Lens for Understanding:
+- **Pattern recognition**: Uncovering hidden relationships in human food behaviors and market dynamics
+- **Predictive understanding**: Using historical patterns to anticipate future trends and challenges
+- **Causal reasoning**: Distinguishing correlation from causation in food system outcomes
+- **Complexity navigation**: Making sense of interconnected variables in global food networks
+
+### Methodological Philosophy:
+- **Iterative learning**: Continuously updating our understanding as new data becomes available
+- **Holistic perspective**: Considering food systems as complex adaptive systems rather than isolated components
+- **Ethical considerations**: Responsible use of data while respecting privacy and cultural contexts
+- **Democratic knowledge**: Making data-driven insights accessible to all stakeholders in food systems
+
+
+
+
+
+

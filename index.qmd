@@ -133,3 +133,4 @@ This cross-sectional study in Mekelle, Ethiopia found that while most street foo
 1. **Gap-scan:** List your current documents/activities under each clause; highlight empty boxes.
 2. **Align audits:** Rotate internal-audit focus—Clause 4 this quarter, Clause 5 next, etc.—to keep improvement continuous.
 3. **Twin PDCA mindset:** Remember ISO 22000 embeds *two* nested PDCA loops—one for the overall FSMS (Clauses 4-7, 9-10) and one inside Clause 8 for hazard control. Make sure they talk to each other.
+
